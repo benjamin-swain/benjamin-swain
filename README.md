@@ -26,7 +26,7 @@ Because most of my work lives in private repositories, my public profile does no
 
 - Led CI/CD and backend infrastructure for over-the-air systems, managing a 10–12 person engineering team deploying to AKS and GKE.
 - Built a ten-stage parallel ETL pipeline for autonomous map data, improving processing performance by 50×.
-- Awarded first place as a solo developer in the [Melting Pot Contest (NeurIPS 2023)](https://neurips.cc/virtual/2023/competition/66585), hosted by Google DeepMind and MIT, for training multi-agent reinforcement learning models on GPU infrastructure.
+- Won first place in the [Melting Pot Challenge (AICrowd)](https://www.aicrowd.com/challenges/meltingpot-challenge-2023), part of [NeurIPS 2023](https://neurips.cc/virtual/2023/competition/66585) and hosted by Google DeepMind and MIT, by training multi-agent reinforcement learning models on GPU infrastructure as a solo participant.
 
 ---
 
