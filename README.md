@@ -4,7 +4,7 @@ I'm a software engineer with eight years of experience building distributed syst
 
 I’m currently the software development lead for the team behind the map update API powering Super Cruise, GM’s hands-free driving system, and the primary data source for over 200,000 vehicles.
 
-Because most of my work lives in private repositories, my public profile does not reflect the full scope of my contributions. Below is a snapshot of my activity from 2024:
+Because most of my work is on a private company GitHub account, my public profile doesn’t reflect the full scope of my contributions. Below is a snapshot of my activity from 2024:
 
 ![Contributions](./gm_contributions_2024.png)
 
