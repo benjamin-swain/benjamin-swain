@@ -6,7 +6,7 @@ I’m currently the software development lead for the team behind the map update
 
 Because most of my work lives in private repositories, my public profile does not reflect the full scope of my contributions. Below is a snapshot of my activity from 2024:
 
-![Contributions](./images/gm_contributions_2024.png)
+![Contributions](./gm_contributions_2024.png)
 
 ---
 
